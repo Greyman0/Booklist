@@ -321,7 +321,7 @@ footer {
 }
 
 /* phone */
-@media (max-width: 582px) {
+@media (max-width: 585px) {
 	/* navbar */
 	.navbar {
 		flex-direction: column;
