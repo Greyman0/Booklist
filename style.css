@@ -260,7 +260,7 @@ footer {
 
 /* media queries */
 /* tablet */
-@media (max-width: 768px) {
+@media (max-width: 1326) {
 	/* navbar */
 	.navbar .navbar-nav a {
 		font-size: 1.1rem;
