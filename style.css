@@ -409,3 +409,9 @@ footer {
 		display: none;
 	}
 }
+
+/* Alert form */
+
+.alert {
+	border: 3px solid rgb(205, 3, 3);
+}
